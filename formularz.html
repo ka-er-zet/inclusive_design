@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formularz zakupu abonamentu</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background: #eee;
+            color: #999;
+            font-family: Arial;
+        }
+        .form-container {
+            padding: 20px;
+            background: #fff;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .input-group {
+            margin: 10px 0;
+        }
+        input, select {
+            border: 1px solid #ddd;
+            padding: 5px;
+            width: 100%;
+            color: #666;
+        }
+        label {
+            color: #aaa;
+            font-size: 12px;
+        }
+        button {
+            background: #ddd;
+            color: #999;
+            border: none;
+            padding: 10px 20px;
+            cursor: default;
+        }
+        button:hover {
+            background: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2 style="color: #999">Formularz zakupu abonamentu</h2>
+        
+        <div class="input-group">
+            <label>Imię i nazwisko</label><br>
+            <input type="text" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Adres</label><br>
+            <input type="text" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Kod pocztowy</label><br>
+            <input type="text" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Miasto</label><br>
+            <input type="text" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Numer rejestracyjny pojazdu</label><br>
+            <input type="text" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Data rozpoczęcia abonamentu</label><br>
+            <input type="date" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Liczba miesięcy</label><br>
+            <select tabindex="-1">
+                <option>1</option>
+                <option>3</option>
+                <option>6</option>
+                <option>12</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label>Pierwsza strona PIT</label><br>
+            <input type="file" accept=".pdf,.jpg,.png" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>UPO do zeznania</label><br>
+            <input type="file" accept=".pdf,.jpg,.png" tabindex="-1">
+        </div>
+
+        <div class="input-group">
+            <label>Dodatkowe dokumenty</label><br>
+            <input type="file" multiple accept=".pdf,.jpg,.png" tabindex="-1">
+        </div>
+
+        <button type="submit" tabindex="-1">Wyślij formularz</button>
+    </div>
+</body>
+</html>
+
