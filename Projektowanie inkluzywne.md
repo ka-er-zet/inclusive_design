@@ -5,13 +5,13 @@
 >Tłumaczenie:
 >Nie możesz powiedzieć, że nie możesz się bawić
 
-To zadanie, które stawiała przed przedszkolakami Vivian Gussin Paley, miało na celu zachęcenie (a może wręcz zmusznie) dzieci do zastanowienia się, jak mogą włączać do zabawy innych. Albo inaczej: jak ich nie wykluczać. Jak nie szukać pretekstó do wykluczenia. Swoje (i swoich podopiecznych) zmagania opisała w książce o tym samym tytule: [You Can’t Say You Can’t Play](https://www.hup.harvard.edu/books/9780674965904).
+To zadanie, które stawiała przed przedszkolakami Vivian Gussin Paley, miało na celu zachęcenie (a może wręcz zmuszanie) dzieci do zastanowienia się, jak mogą włączać do zabawy innych. Albo inaczej: jak ich nie wykluczać. Jak nie szukać pretekstów do wykluczenia. Swoje (i swoich podopiecznych) zmagania opisała w książce o tym samym tytule: [You Can’t Say You Can’t Play](https://www.hup.harvard.edu/books/9780674965904).
 
-Co ważne, działania Paley uświadamiały, że wykluczenie jest czynnością, jest aktywnością. Nie dzieje się samo z siebie, ale jest wynikiem decyzji i akcji. Nierzadko podejmowanych na samym początku, kiedy tylko pojawia się chęć zabawy. Ta aktywność wykluczenia pojawi się jeszcze w tym tekście. Taką samą aktywnością jest też włączenie. 
+Co ważne, działania Paley uświadomiły, że wykluczenie jest czynnością, jest aktywnością. Nie dzieje się samo z siebie, ale jest wynikiem decyzji i akcji. Nierzadko podejmowanych na samym początku, kiedy tylko pojawia się chęć zabawy. Ta aktywność wykluczenia pojawi się jeszcze w tym tekście. Taką samą aktywnością jest też włączenie. 
 
 Co łączy obie aktywności to świadomość tego, co wyklucza. Świadomość istnienia i wprowadzania do systemu interakcji pomiędzy ludźmi jako takimi i środowiskiem, w którym żyją, czynników, które tworzą niedopasowania (mismatch). A niedopasowania tworzą wykluczenia. 
 
-Daletgo inkluzywność to czasownik. Bo inkluzywność to działanie. To nieskończony proces poznawania ludzi i czerpania z ich różnorodności. 
+Dlatego inkluzywność to czasownik. Bo inkluzywność to działanie. To nieskończony proces poznawania ludzi i czerpania z ich różnorodności. 
 Proces tworzenia rozwiązań, które nie wykluczają.
 
 ## Nadchodzi zmiana
@@ -161,7 +161,7 @@ Wybierzmy się w góry (świetna metafora jeśli chodzi o dostępność, prawda?
 
 W projektowaniu inkluzywnym nie zakłada się istnienia jednego, całościowego rozwiązania pozwalającego wszystkim na korzystanie z czegoś. Dopuszcza się, że rozwiązań może być wiele. Może być wiele dróg dojścia na szczyt, jak i wiele czynników tworzących wykluczenia (niedopasowania), które tę drogę mogą utrudniać. Lub uniemożliwiać. 
 
-Projektowanie inkluzywne (włączające), podobbnie, jak uniwersalne ma swoje zasady:
+Projektowanie inkluzywne (włączające), podobnie, jak uniwersalne ma swoje zasady:
 
 ### Zapewnij porównywalne doświadczenie
 
@@ -223,7 +223,7 @@ Projektowanie inkluzywne stawia ludzi w centrum całego procesu. Ich świeże, r
 3. **Rozwiązuj dla jednostki, rozszerzaj na wielu**
 Każdy ma swoje zdolności i ograniczenia. Tworzenie produktów z myślą o osobach z trwałymi niepełnosprawnościami prowadzi do rozwiązań, które przynoszą korzyści wszystkim użytkownikom.
 
-Co jednak w tym wszystkim najważniejsze, to to, że nie ważne, jakiej metodologii, frameworka, zasady, czy czegokolwiek innego się używa. Ważne by pamiętać o celu, którym jest dostępność. Albo to, by wszyscy mogli się bawić, na jak nabardziej zbliżonych warunkach. 
+Co jednak w tym wszystkim najważniejsze, to to, że nie ważne, jakiej metodologii, frameworka, zasady, czy czegokolwiek innego się używa. Ważne by pamiętać o celu, którym jest dostępność. Albo to, by wszyscy mogli się bawić, na jak najbardziej zbliżonych warunkach. 
 
 ## Tylko dla kogo jest ta dostępność?
 
@@ -241,7 +241,7 @@ Wiecie skąd pochodzi ten cytat?
 Nie jest to żaden dokument ani manifest specjalistów od dostępności. Napisał go w 1996 r. (blisko 30 lat temu), John Perry Barlow. A jest to [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence). Jedną z podstaw wolności cyberprzestrzeni miała być równość jej użytkowniczek i użytkowników. Czy tak jest? (Podpowiem: [nie bardzo...]([Digital Trust Index](https://www.digitaltrustindex.eu/#main-content)))
 
 Zaproszę was teraz do prostego ćwiczenia. Zastanówcie się czy kiedykolwiek:
-- [ ] musieliście kogoś poprosić o powtórzenie czegoś, bo niedosłyszeliście tego
+- [ ] musieliście kogoś poprosić o powtórzenie czegoś, bo nie słyszeliście tego
 - [ ] szukanie czegoś bez okularów na nosie zajęło wam sporo czasu 
 - [ ] byliście tak czymś zdenerwowani, że nie mogliście się na niczym skupić
 - [ ] nie działał dźwięk w komputerze (halo Andrzeju, widzimy cię, ale nie słyszymy…)
@@ -320,7 +320,7 @@ Przesadzam? Może odrobinę przerysowuję sytuację, ale byłem świadkiem tego,
 
 Miłość jest czasownikiem, miłość jest słowem czynu, głosił tekst piosenki Teardrop zespołu Massive Attack (możecie ją znać z czołówki serial Doktor House). Podobnie dostępność, jest czasownikiem, działaniem, jest procesem. Jest też celem w dojściu do którego wspierać nas mogą metody projektowania, takie jak projektowanie uniwersalne lub inkluzywne. Dobre praktyki, takie jak choćby tworzenie czystego, semantycznego kodu, a także Web Content Accessibility Guidelines (czyli owiany nie zawsze dobrą sławą WCAG). Oraz... przepisy prawne, które można traktować jak przymus (w sumie nim są), albo jak benchmark czy też wyzwanie.
 
-Ale przede wszystkim: TWÓRZCIE WASZE PRODUKTY Z LUDŹMI. Jak najwcześniej zapraszajcie różnych użytkowników do rozmów o ich potrzebach, problemach, do testów waszych rozwiązań i koncepcji. Jeśli boicie się testować z osobami z niepełnosprawnością, poszukajcie firm, które zrobią to za was. Rozejrzyjcie się też dookoła. Może w waszej organizacji są tacy ludzie i będą skłonni popracować z wami. 
+Ale przede wszystkim: TWÓRZCIE WASZE PRODUKTY Z LUDŹMI. Jak najwcześniej zapraszajcie różnych użytkowników do rozmów o ich potrzebach, problemach, do testów waszych rozwiązań i koncepcji. Jeśli boicie się testować z osobami z niepełnosprawnością, poszukajcie firm, które zrobią to za was. Rozejrzyjcie się też dookoła. Może w waszej organizacji są tacy ludzie i będą skłonni pracować z wami. 
 
 Budujcie zespoły ludzi świadomych potrzeby dbania o dostępność i mających wiedzę oraz umiejętności, jak to robić. Poniżej możecie znaleźć przykładowy podział zadań w takim zespole (dodatkowe materiały znajdziecie tutaj: [Accessibility for teams](https://digital.gov/guides/accessibility-for-teams/))
 
@@ -364,7 +364,7 @@ Wśród automatycznych walidatorów, warto zwrócić uwagę na:
 - [IBM Accessibility Checker](https://www.ibm.com/able/toolkit/tools/)
 - [AInspector for WCAG Accessibility Evaluation](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/)
 
-A jeśli chcecie się nauczyć testować strony pod katem zgodności z WCAG, to warto przejść kurs [Trusted Tester](https://training.section508testing.net/)
+A jeśli chcecie się nauczyć testować strony pod kątem zgodności z WCAG, to warto przejść kurs [Trusted Tester](https://training.section508testing.net/)
 
 [Google Accessibility Scanner](https://support.google.com/accessibility/android/answer/6376570) to narzędzie wspomagające testowanie aplikacji na Adroida, a dla osób pracujących z Apple Xcode istnieje [Accessibility Inspector](https://developer.apple.com/documentation/accessibility/accessibility-inspector).
 
@@ -394,7 +394,7 @@ Swoje przewodniki po dostępności, dla rozwiązań natywnych, mają:
 
 ### Ci, co projektują (UX, UI, treści)
 
-- Dbajcie o całościowe doświadczenie waszych użytkowniczek/użytkowników (a nie tylko o jedną stronę, czy aplikację). Ludzie korzystają z projektowanych przez was produktów i rozwiązań by dowieźć jakąś robotę. By osiągnąć jakiś cel. I bardzo często to, co wy dostarczacie jest tylko jednym z narzędzi na drodze do tego. Warto znać szerszy kontekst i wiedzieć skąd ludzie przyszli do was i gdzie później idą, by nie tworzyć fasady dostępnych rozwiązań. Przykład? Rozmawiałem kiedyś ze znajomym projektantem. Szukał wsparcie w związku z przeprojektowaniem strony firmy, zajmującej się wyszukiwaniem ofert usług telekomunikacyjnych. Dostali na to środki z UE, która do ich rozliczenia wymagała audytu dostępności. Jednak znalazł się u nich ktoś, kto powiedział, że audyt audytem, a dobrze zrobiony i dostępny produkt też warto by mieć (to trochę, jak skończyć kurs prawa jazdy i zdobyć uprawnienia... nie zawsze znaczy to, że dobrze prowadzi się samochód). Dość szybko wyszło, że po zebraniu namiarów na klientkę/klienta na stronie internetowej po prostu dzwonią do potencjalnych klientów. I tak super dostępna strona miała prowadzić do średnio odpowiadającej szeregowi ludzi (niesłyszący, niedosłyszący, nie lubiący rozmawiać przez telefon, wiecznie zajęci, bojący się odbierać od nieznanych numerów...) kontynuacji usługi. 
+- Dbajcie o całościowe doświadczenie waszych użytkowniczek/użytkowników (a nie tylko o jedną stronę, czy aplikację). Ludzie korzystają z projektowanych przez was produktów i rozwiązań by dowieźć jakąś robotę. By osiągnąć jakiś cel. I bardzo często to, co wy dostarczacie jest tylko jednym z narzędzi na drodze do tego. Warto znać szerszy kontekst i wiedzieć skąd ludzie przyszli do was i gdzie później idą, by nie tworzyć fasady dostępnych rozwiązań. Przykład? Rozmawiałem kiedyś ze znajomym projektantem. Szukał wsparcie w związku z przeprojektowaniem strony firmy, zajmującej się wyszukiwaniem ofert usług telekomunikacyjnych. Dostali na to środki z UE, która do ich rozliczenia wymagała audytu dostępności. Jednak znalazł się u nich ktoś, kto powiedział, że audyt audytem, a dobrze zrobiony i dostępny produkt też warto by mieć (to trochę, jak ukończyć kurs prawa jazdy i zdobyć uprawnienia... nie zawsze znaczy to, że dobrze prowadzi się samochód). Dość szybko wyszło, że po zebraniu namiarów na klientkę/klienta na stronie internetowej po prostu dzwonią do potencjalnych klientów. I tak super dostępna strona miała prowadzić do średnio odpowiadającej szeregowi ludzi (niesłyszący, niedosłyszący, nie lubiący rozmawiać przez telefon, wiecznie zajęci, bojący się odbierać od nieznanych numerów...) kontynuacji usługi. 
 - Stosujcie WCAG jako podstawowy benchmark dla waszych projektów (tu znów polecam  [Accessibility Not-Checklist | Brewed by team Intopia](https://not-checklist.intopia.digital/))
 - Dbajcie o dostępność wizualną - kontrasty, kolory, wyróżnienia linków (nie tylko kolorem)
 - Pilnujcie by linki miały znaczenie odnoszące się do kontekstu
@@ -419,7 +419,7 @@ Z kim nie nie rozmawialiśmy i na co nie zwróciliśmy uwagi podczas fazy discov
 
 Jakich potrzeb nie zrozumieliśmy, gdzie zabrakło nam świadomości wykluczenia podczas prac w obszarze define?
 
-Czego nie przekazaliśmy zespołowi produktowemu w fazie  develop i kogo w ostatcznym rozrachunku wykluczamy, gdy jesteśmy na etapie deliver?
+Czego nie przekazaliśmy zespołowi produktowemu w fazie  develop i kogo w ostatecznym rozrachunku wykluczamy, gdy jesteśmy na etapie deliver?
 
 Wykluczenie zaczyna się od tego, że tworzymy rozwiązania dla świata, który można zamknąć w obszarze wyznaczonym zasięgiem naszych rąk. I postrzegamy cztery filary dostępności poprzez nasze doświadczenia. 
 
@@ -530,7 +530,7 @@ Jeśli chcecie przeczytać więcej o projektowaniu zorientowanym na dostępnoś�
 - [University of Cambridge Inclusive Design Toolkit](http://www.inclusivedesigntoolkit.com/whatis/whatis.html#nogo)
 - Mniej o dostępności, a bardziej o technologii służącej człowiekowi, a nie na odwrót, ale w dostępności też i o to chodzi: [Calm technology](https://calmtech.com/papers.html)
 
-Osobny tekst można by poświecić temu, co oferuje internet, ale w skrócie - na kogo zerkam ja:
+Osobny tekst można by poświęcić temu, co oferuje internet, ale w skrócie - na kogo zerkam ja:
 
 - [grupa na FB zrzeszająca świetną ekipę specjalistek i specjalistów od dostępności](https://www.facebook.com/groups/138853652854863)
 - [Strona Jacka Zadrożnego](https://informaton.blog/) - warto też zaobserwować Jacka na LinkedIN i zasubskrybować jego newsletter - [Dostępnik | Substack](https://dostepnik.substack.com/)
@@ -601,7 +601,7 @@ Z kolei w obszarze użyteczności:
 - Dogfooding
 - Zgodność z Design System lub UI Guide
 
-Powyższe listy to tylko przykłady, bynajmniej nie wyczerpujące tematyki pomiaru. Zainteresowanym tym tematem szczególnie polecam blog [MeasuringU](https://measuringu.com/blogs/). Tematykę heurystyk użyteczności można zgłębić zaczynając od artykułu [Usability heuristic frameworks: which one is right for you?](https://uxdesign.cc/usability-heuristic-frameworks-which-one-is-right-for-you-1962387b7cc).
+Powyższe listy to tylko przykłady, bynajmniej nie wyczerpują tematyki pomiaru. Zainteresowanym tym tematem szczególnie polecam blog [MeasuringU](https://measuringu.com/blogs/). Tematykę heurystyk użyteczności można zgłębić zaczynając od artykułu [Usability heuristic frameworks: which one is right for you?](https://uxdesign.cc/usability-heuristic-frameworks-which-one-is-right-for-you-1962387b7cc).
 
 A jeśli zainteresowały cię checklisty zapoznaj się z: [Heuristic Evalualtion - A System Checklist](https://users.polytech.unice.fr/~pinna/MODULEIHM/ANNEE2010/CEIHM/XEROX%20HE_CKLST.pdf); [Iain Connel principles](https://drive.google.com/file/d/1Ro3ATSK-lT4XhQGhQ3hb_VQKzjaoSCS6/view); [Ergonomic Criteria for the Evaluation of User Interfaces of Bastien and Scapin](https://capian.co/ergonomic-criteria-bastien-scapin)
 
@@ -643,7 +643,7 @@ Przykład:
 
 #### Przykład narzędzia do wewnętrznego pomiaru
 
-Dla lepszego zobrazowania przygotowałem przykładowe narzędzie wewnętrznego (eksperciego) pomiaru dostępności i użyteczności. Brzmi poważnie, ale to prosty plik Google Spreadsheet, w którym połączone zostały:
+Dla lepszego zobrazowania przygotowałem przykładowe narzędzie wewnętrznego (eksperckiego) pomiaru dostępności i użyteczności. Brzmi poważnie, ale to prosty plik Google Spreadsheet, w którym połączone zostały:
 - Lista kontrolna użyteczności stworzona w oparciu o [ten artykuł](https://medium.com/@christopherpeterson/free-usability-checklist-digital-audits-and-goodbye-to-excel-5307b12c5ac0)
 - Lista kontrolna inkluzywności stworzona w oparciu [materiały UK.gov](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 )
@@ -654,11 +654,11 @@ Wyniki tych pomiarów są raportowane globalnie procentowo (liczba uzyskanych pu
 
 ## Dlaczego możesz chcieć w dostępność?
 
-Po postraszeniu ustawą (mam nadzieję, że skutecznym tylko w zakresie zachęty do nabycia wiedzy i ruszenia z tematem, a nie paraliżu decyzyjnego) czas na garść informacji o tym, że dostępnym być warto. I to tak na serio warto.
+Po straszeniu ustawą (mam nadzieję, że skutecznym tylko w zakresie zachęty do nabycia wiedzy i ruszenia z tematem, a nie paraliżu decyzyjnego) czas na garść informacji o tym, że dostępnym być warto. I to tak na serio warto.
 
 Rzućmy okiem na świat gamedevu. Nie ma żadnych regulacji, nie ma żadnych odgórnie narzuconych wytycznych, a jest tam sporo inspiracji do tego, jak zadbać o włączenie ludzi.
 [Xbox Adaptive Controller](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller?msockid=2bc0af3ae9a16d140fa0bc3ce8b36c84) czy [Project Leonardo](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/#:~:text=Project%20Leonardo%20for%20PS5%20is%20a%20canvas%20for%20gamers%20to) dla Playstation to dwa najbardziej znane przykłady rozwiązań sprzętowych, wspomagających osoby ze specjalnymi potrzebami. 
-Są też rozwiązania "systemowe" zachęcające deweloperów i twórcówdo wprowadzania rozwiązań wspomagających na poziomie kodu i jednocześnie informujące potencjalnych graczy/graczki o tym, jak dany tytuł może się do nich dostosować. Osobiście - nie obraziłbym się na taki sposób opowiadania o dostępności produktów, jak właśnie [Accessibility Feature Tags](https://learn.microsoft.com/en-us/gaming/accessibility/accessibility-feature-tags). 
+Są też rozwiązania "systemowe" zachęcające deweloperów i twórców do wprowadzania rozwiązań wspomagających na poziomie kodu i jednocześnie informujące potencjalnych graczy/graczki o tym, jak dany tytuł może się do nich dostosować. Osobiście - nie obraziłbym się na taki sposób opowiadania o dostępności produktów, jak właśnie [Accessibility Feature Tags](https://learn.microsoft.com/en-us/gaming/accessibility/accessibility-feature-tags). 
 
 Jak gamedev to zrobił? Można zapytać. Otóż w sposób bardzo prosty. Microsoft, Sony, część studiów zatrudnia u siebie osoby z niepełnosprawnościami. Są one motorem zmian w myśl zasady: "nic o nas, bez nas". 
 
@@ -676,7 +676,7 @@ Jako ciekawostkę warto też wspomnieć o grze, która w USA jest zatwierdzona p
 
 Ale wychodząc poza gamedev. 
 
-Jeśli chodzi o nasz rodzimy rynek usług komercyjnych, to warto wspomnieć inicjatywę [Business Accessibility Forum (BAF)](https://baforum.pl/, definiującą się jako "platforma zrzeszającą organizacje zorientowane na zwiększanie dostępności towarów i usług dla wszystkich użytkowników Internetu".
+Jeśli chodzi o nasz rodzimy rynek usług komercyjnych, to warto wspomnieć inicjatywę [Business Accessibility Forum (BAF)](https://baforum.pl/, definiującą się jako "platforma zrzeszającą organizacje zorientowane na zwiększenie dostępności towarów i usług dla wszystkich użytkowników Internetu".
  W ich serwisie znaleźć można bazę wiedzy i raporty związane dostępnością w świecie rozwiązań komercyjnych.
 
 We wspomnianej wyżej [kanwie projektowania inkluzywnego](https://ationcenter.com/wp-content/uploads/2024/03/a-Kanwa-Projektowanie-inkluzywne-2024.pdf) możecie odnaleźć część o szansach dla biznesu. Innymi słowy, jak potencjalne rozwiązania problemów/wykluczeń, których mogą doznawać ludzie, można przełożyć na wartość samego produktu.
@@ -694,7 +694,7 @@ To też świetny przykład tego, jak bardzo dostępność jest aktywnym działan
 
 Wróćmy do szans. Może się okazać, że poza tym, że jakieś rozwiązanie pokrywa wiele przypadków (dobrze się skaluje), to jeszcze wśród tych przypadków są nasi kluczowi klienci. A gdy jeszcze poprzez nie możemy się stać wyjątkowi? Jest to coś czego konkurencja jeszcze nie ma, lub jest to sposób unikatowego wykorzystania tego, co wszyscy już znają? Wówczas mamy biznesową okazję nie do przegapienia. Co warto zrobić dalej? Przetestować, zastanowić się nad jej skutkami... no ale o tym już było.
 
-Tu jeszcze drobna dygresja, czy też przypomnienie: przepisy wymuszą dostępność na całkiem sporym kawałku rynku produktów i usług. Warto więc pomyśleć perspektywicznie: jak mój produkt/usługa się obronią, gdy nie będą dostępne. Czy jestem aż tak wyjątkowy/wyjątkowa, by szukać możliwości obejścia przepiswó/cieszyć się z wyłączeń?
+Tu jeszcze drobna dygresja, czy też przypomnienie: przepisy wymuszają dostępność na całkiem sporym kawałku rynku produktów i usług. Warto więc pomyśleć perspektywicznie: jak mój produkt/usługa się obronią, gdy nie będą dostępne. Czy jestem aż tak wyjątkowy/wyjątkowa, by szukać możliwości obejścia przepisów/cieszyć się z wyłączeń?
 
 A jak to przekłada się na konkretne liczby? Ile biznes może zyskać (albo stracić) jeśli nie będzie dobry w dostępność? Albo nie zwróci uwagi na szanse?
 
@@ -731,7 +731,7 @@ I jest tego więcej:
 - Klocki Lego Braille Bricks - zaprojektowane tak, aby wspierać naukę alfabetu Braille’a wśród dzieci niewidomych i niedowidzących. Klocki są w pełni kompatybilne z tradycyjnymi zestawami Lego, co umożliwia dzieciom z różnymi potrzebami wspólną zabawę. Lego promuje też różnorodność poprzez umieszczanie w zestawach figurek osób z niepełnosprawnością. 
 - **Smartwatche Garmin: seria z funkcjami dla osób z niepełnosprawnościami** - mają one funkcje wspierające osoby z różnymi ograniczeniami. Przykładowo, niektóre modele oferują funkcje monitorowania zdrowia oraz aktywności, które są dostosowane do potrzeb osób z ograniczoną mobilnością.
 
-Rynek już się zmienia, a zmiany prawne najprawdopodobniej przyśpieszą te zmiany. Gdzie będziesz chciał/chciała być Ty? Jako właściciel/właścicielka biznesu, jako deweloper/deweloperka, tester/testerka, projektant/projektantka? 
+Rynek już się zmienia, a zmiany prawne najprawdopodobniej przyspieszą te zmiany. Gdzie będziesz chciał/chciała być Ty? Jako właściciel/właścicielka biznesu, jako deweloper/deweloperka, tester/testerka, projektant/projektantka? 
 
 Mam nadzieję, że teraz masz już zalążek świadomości tych zmian i możliwości uczestniczenia w nich. 
 
@@ -743,6 +743,7 @@ Autorem jestem ja, czyli [Marcin Krzanicki](https://www.linkedin.com/in/marcinkr
 
 Tekst udostępniony jest na licencji [Creative Commons Uznanie autorstwa - Użycie niekomercyjne na tych samych warunkach 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl)
 
-Widzisz błąd, chciałabyś/chciałbyś coś dodać? Zaproponuj zmiany prze Github, lub skontaktuj się ze mną. 
+Widzisz błąd, chciałabyś/chciałbyś coś dodać? Zaproponuj zmiany przez Github, lub skontaktuj się ze mną. 
 
 Nie wiesz, jak zacząć z Github? Zerknij na stronę [Rity Łyczywek](https://www.flynerd.pl/2017/09/git-dla-poczatkujacych-ucz-sie-interaktywnie.html)
+
